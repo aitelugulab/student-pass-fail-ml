@@ -33,13 +33,10 @@ python ml_project.py
 ## 🎯 Example Output
 
 ```
-Model Accuracy: 0.85
+Model Accuracy: 1.0
 Enter student marks: 45
 Result: PASS
 ```
 
 ---
 
-## 📌 Author
-
-Your Name
