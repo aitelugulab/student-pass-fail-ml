@@ -16,15 +16,11 @@ This project uses Machine Learning to predict whether a student will **PASS or F
 ## 🛠️ Technologies Used
 
 * Python
-* Pandas
-* Scikit-learn
-
 ---
 
 ## ▶️ How to Run
 
 ```bash
-pip install pandas scikit-learn
 python ml_project.py
 ```
 
